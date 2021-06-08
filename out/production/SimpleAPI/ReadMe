@@ -1,0 +1,15 @@
+This is a simple project where I do an API call to https://covid19api.com. The JSON response file is then parsed and printed in console.
+
+
+Documentations, articles, and resources used:
+
+Documentations/guides:
+https://dzone.com/articles/how-to-parse-json-data-from-a-rest-api-using-simpl
+https://stackoverflow.com/questions/10500775/parse-json-from-httpurlconnection-object
+https://documenter.getpostman.com/view/10808728/SzS8rjbc
+
+API:
+https://covid19api.com/
+
+Additional Libraries:
+https://code.google.com/archive/p/json-simple/
